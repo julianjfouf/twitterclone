@@ -1,6 +1,6 @@
-<i>Twitter Clone</i>
+<i>Twitter Clone made using Firebase, Material UI, Next.js, Framer Motion, and Tailwind CSS</i>
 <div>
-  <h2>Malik's Tints</h2>
+  <h2>Twitter Clone</h2>
   <a target="_blank" href="https://malikstints.com/">Live Version</a>
 </div>
 <br/>
@@ -11,4 +11,3 @@ I spent probably like 4-5 hours in total on this app in the span of like 24 hour
 <br/>
 <br/>
 I thank you for your time spent reading this message.</p>
-<img src="https://github.com/julianjfouf/MalikTints/assets/108158376/b6d49e2d-2c62-4c67-98a8-d919092e8d38"/>
