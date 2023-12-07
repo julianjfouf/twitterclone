@@ -34,7 +34,7 @@ const Layout = ({ children, user, setLoggedIn }) => {
   return (
     <div className="flex container mx-auto">
       {tweet ? (
-        <div className="absolute top-0 left-0 h-full w-full bg-sky-500/20 z-10 flex justify-center items-center">
+        <div className="fixed top-0 left-0 h-full w-full bg-sky-500/20 z-10 flex justify-center items-center">
           <div className="max-w-4xl w-full bg-black border border-white/20 rounded-2xl p-4">
             <button className="text-white" onClick={() => setTweet(false)}>
               <Close className="mb-8" />
